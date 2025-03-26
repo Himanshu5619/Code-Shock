@@ -3,7 +3,7 @@ from pages import Home, Dataset_Load, Train_Models, Upload_Predict, Visualizatio
 
 # Set page config
 st.set_page_config(
-    page_title="Decipher",
+    page_title="Code-Shock",
     page_icon="🤖",
     layout="wide",
     initial_sidebar_state="expanded"
@@ -15,7 +15,7 @@ if "page" not in st.session_state:
 
 # Sidebar navigation
 with st.sidebar:
-    st.title("🤖 Decipher")
+    st.title("🤖 Code-Shock")
     st.markdown("---")
 
     # Navigation
