@@ -103,7 +103,7 @@ A comprehensive web application for training, analyzing, and deploying machine l
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/git-himanshu5619/Code-Shock.git
+git clone https://github.com/Himanshu5619/Code-Shock.git)
 cd Code-Shock
 ```
 
